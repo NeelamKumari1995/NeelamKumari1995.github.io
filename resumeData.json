@@ -1,0 +1,115 @@
+{
+  "main": {
+    "name":"Neelam Kumari",
+    "description":"I am a Senior Programmer Analyst and I use NodeJs, Angular and Ionic to develop Web Sites as well as Mobile Applications",
+    "image":"profilepic.JPG",
+    "bio":"A bright, talented, ambitious and self-motivated Senior Programmer Analyst with ~4 years of strong technical background. Able to play a key role throughout a site's development or mobile app development to ensure maximum accessibility, customer experience and usability. Experienced at leading teams to successfully deliver complex projects ranging from web and mobile applications to large enterprise solutions. A quick learner who can absorb new ideas and can communicate clearly and effectively. Currently looking for an opportunity to join a dynamic, ambitious, growing company and forge a career as a first class software developer.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "neelamkumari09091995@gmail.com",
+    "phone": "9104063876",
+    "github":"https://github.com/NeelamKumari1995",
+    "project":"https://github.com/NeelamKumari1995?tab=projects",
+    "address":{
+      "street":"New Naroda",
+      "city":"Ahmedabad",
+      "state":"Gujarat",
+      "zip": "382330"
+    },
+    "website": "https://github.com/NeelamKumari1995",
+    "resumedownload":"https://github.com/NeelamKumari1995",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/neelam-09/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/blue_jewel_1995/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/NeelamKumari1995",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Senior Fullstack Developer",
+    "education":[
+      {
+        "school":"Gandhinagar Institute Of Technology",
+        "degree":"Computer Engineering",
+        "graduated":"May 2017",
+        "description":"Learned here technical and research skills in the area of computation."
+      },
+      {
+        "school":"Kendriya Vidyalaya, Ahmedabad Cantt",
+        "degree":"Science",
+        "graduated":"March 2013",
+        "description":"Learned computer science skills along with C and C++."
+      }
+    ],
+    "work":[
+      {
+        "company":"Argusoft India Ltd.",
+        "title":"Senior Programmer Analyst ",
+        "years":"Jan 2017 - Present",
+        "description":"Worked as a Fullstack Javascript Developer."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"Angular2+",
+        "level":"80%"
+      },
+      {
+        "name":"Ionic",
+        "level":"70%"
+      },
+      {
+        "name":"NestJS",
+        "level":"70%"
+      },
+      {
+        "name":"TypeORM",
+        "level":"70%"
+      },
+      {
+        "name":"Database(SQL/NOSQL)",
+        "level":"50%"
+      },
+      {
+        "name":"Azure",
+        "level":"30%"
+      },
+      {
+        "name":"GIT",
+        "level":"80%"
+      },
+      {
+        "name":"Unit Testing",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Dafabet",
+        "category":"Betting product on games",
+        "image":"02.jpg",
+        "url":"https://www.dafabet.com"
+      }
+    ]
+  }
+}
